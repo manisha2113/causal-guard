@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+numpy
+scipy
+pandas
+tqdm
+pytest
+accelerate
